@@ -1,0 +1,50 @@
+body {
+    background-color:rgb(247, 247, 247);
+}
+
+h1 {
+    color: lightpink;
+   	font-size: 80px;
+   	font-family:helvetica;
+}
+
+h2 {
+	color: darkseagreen;
+	font-size: 40px;
+	font-family: helvetica;
+}
+
+h3 {
+	color:gray;
+	font-size:30px;
+	font-family:helvetica;
+}
+	
+h4 {
+	color: darkseagreen;
+	font-size: 30px;
+	font-family: helvetica;
+}
+p {
+	color: black;
+	font-family: helvetica;
+	margin-left: 20px;
+}	
+ul.a {
+	list-style-type: circle;
+	list-style-position: inside;
+	
+	
+	<head>
+<title>CSS Website Layout</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
